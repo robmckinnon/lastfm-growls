@@ -38,7 +38,7 @@ class EventGrowl
 
     while(loop)
       check_now_playing
-      sleep(60 * 1/6)
+      sleep(20)
     end
   end
 

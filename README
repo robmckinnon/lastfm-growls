@@ -1,0 +1,4 @@
+
+usage: ruby lastfm_growls.rb your_user_name your_city
+
+e.g.:  ruby lastfm_growls.rb queen_liz London
